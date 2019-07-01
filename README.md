@@ -20,3 +20,5 @@ Questions:
 
 Possible trend:
 1. There is a shortage of 151,717 people with data science skills, with particularly acute shortages in New York City, San Francisco, and LA. (Use those three cities for our focus?)
+2. The 2020 estmiate calls for 2.7 million job postings for data science and analytics roles:wq
+
